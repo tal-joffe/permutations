@@ -1,4 +1,4 @@
-# Permutaitons!
+# Permutations!
 
 This project is purely for fun
 
