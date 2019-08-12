@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/permutations/static/css/main.2cce8147.chunk.css",
+    "main.js": "/permutations/static/js/main.bae0d182.chunk.js",
+    "main.js.map": "/permutations/static/js/main.bae0d182.chunk.js.map",
+    "runtime~main.js": "/permutations/static/js/runtime~main.fb5c2bfc.js",
+    "runtime~main.js.map": "/permutations/static/js/runtime~main.fb5c2bfc.js.map",
+    "static/js/2.b6b225f4.chunk.js": "/permutations/static/js/2.b6b225f4.chunk.js",
+    "static/js/2.b6b225f4.chunk.js.map": "/permutations/static/js/2.b6b225f4.chunk.js.map",
+    "index.html": "/permutations/index.html",
+    "precache-manifest.1359360c3deee19fa048d8b9db254570.js": "/permutations/precache-manifest.1359360c3deee19fa048d8b9db254570.js",
+    "service-worker.js": "/permutations/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/permutations/static/css/main.2cce8147.chunk.css.map"
+  }
+}
