@@ -4,7 +4,7 @@ import Results from './components/Results'
 function Homepage() {
   return (
     <div className="homepage">
-      <input>enter string</input>
+      <input/>
       <button>run</button>
       <Results results={['abc','acb']}/>
     </div>
